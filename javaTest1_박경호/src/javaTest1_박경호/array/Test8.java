@@ -3,6 +3,7 @@ package javaTest1_박경호.array;
 public class Test8 {
 
 	public static void main(String[] args) {
+		System.out.println("test");
 		int [][] array = {{12,41,36,56}, {82,10,12,61}, {14,16,18,78}, {45,26,72,23}};
 		double sum = 0;
 		double count = 0;
