@@ -20,8 +20,6 @@
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=ffd35b" />&nbsp
 </div>
 
-***
-
 ### 🔧 BackEnd (🌱 Working Knowledge)
 <div>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> &nbsp
@@ -29,7 +27,6 @@
   <img src="https://img.shields.io/badge/net-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"> &nbsp
 </div>
 
-***
 
 ### 🛠️ DevOps & Tools (🌱 Working Knowledge)
 <div>
@@ -37,7 +34,6 @@
   <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> &nbsp
 </div>
 
----
 
 ### 🗄️ Database
 <div>
@@ -46,15 +42,12 @@
   <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"> &nbsp
 </div>
 
----
-
 ### 📱 Mobile App Development (🌱 Working Knowledge)
 <div>
   <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"> &nbsp
   <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"> &nbsp
 </div>
 
----
 
 ### 💬 Communication
 <div>
@@ -63,8 +56,6 @@
   <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"> &nbsp
   <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> &nbsp
 </div>
-
----
 
 ### 🔀 Version Control
 <div>
