@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/net-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"> &nbsp
 </div>
 
----
+***
 
 ### 🛠️ DevOps & Tools (🌱 Working Knowledge)
 <div>
