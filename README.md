@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome!&fontSize=90)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dggb&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dggb)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dggb&show_icons=true&theme=radical)
 
 ## 📚 Tech Stack - 기술 스택
