@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome!&fontSize=90)
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dggb&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dggb&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
