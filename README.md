@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome!&fontSize=90)
 
+<h3 align="center">Tech Stack</h3>
 <!--
 **dggb/dggb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
