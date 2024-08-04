@@ -74,7 +74,7 @@ Web Developer
 </div>
 <br>
 
-### 🎓 Programmers
+## 🎓 Programmers
 [![](https://github.com/dggb/github-programmers-rank/blob/master/lib/result.svg)](https://github.com/dggb/github-programmers-rank)
 
 <div align="center"> 
