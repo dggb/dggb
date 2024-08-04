@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=ffd35b" />&nbsp
 </div>
 
-<br/>
+___
 ### 🔧 BackEnd (🌱 Working Knowledge)
 <div>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> &nbsp
@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/net-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"> &nbsp
 </div>
 
-
+<hr/>
 ### 🛠️ DevOps & Tools (🌱 Working Knowledge)
 <div>
   <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> &nbsp
