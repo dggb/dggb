@@ -20,14 +20,14 @@
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=ffd35b" />&nbsp
 </div>
 
-### 🔧 + 🌱 BackEnd (Working Knowledge)
+### 🔧 BackEnd (🌱 Working Knowledge)
 <div>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> &nbsp
   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> &nbsp
   <img src="https://img.shields.io/badge/net-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"> &nbsp
 </div>
 
-### 🛠️ + 🌱 DevOps & Tools (Working Knowledge)
+### 🛠️ DevOps & Tools (🌱 Working Knowledge)
 <div>
   <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> &nbsp
   <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> &nbsp
