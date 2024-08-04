@@ -1,4 +1,4 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=250&section=header&text=Welcome!&fontSize=90)
 
 <!--
 **dggb/dggb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
